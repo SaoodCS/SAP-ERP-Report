@@ -10,7 +10,7 @@ The report covers the following topics:
 # Implementation Scenario:
 The following diagram illustrates a scenario that the report guides the reader through in order to demonstrate that they have performed the required training and skills in implementing an business processes in ERP SAP.
 <p align="center">
-    <img src="ImplementationDiagram.png" alt="Logo" width="100" height="100">
+    <img src="ImplementationDiagram.png" alt="Diagram">
 </p>
 
 
