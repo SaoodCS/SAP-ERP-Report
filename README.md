@@ -3,7 +3,7 @@ This project contains the report for my SAP ERP implementation and integration m
 The report covers the following topics:
 - What ERP is, the benefits ERP brings to an organization
 - What SAP is and how it is structured
-- Walkthrough regarding the implementation and integration of SAP ERP for a fictional bike company Speed Gear
+- Walkthrough regarding the implementation and integration of SAP ERP for a fictional bike company Speed Gear to demonstrate training undertaken in SAP ERP.
 - Evaluation of ERP SAP
 - Recommendations regarding how organizations can successfully implement SAP ERP
 
